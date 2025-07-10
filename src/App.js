@@ -6,7 +6,7 @@ import News from './components/News';
 
 
 export default class App extends Component {
-  pageSize = 9;
+  pageSize = 10;
   render() {
     return (
       <div>
